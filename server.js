@@ -35,6 +35,6 @@ app.get('/api/:frog',(request, response)=>{
 
 })
 
-app.listen(PORT, ()=>{
+app.listen(process.env.PORT || PORT, ()=>{
     console.log(`The server is now running on port ${PORT}! Better go catch it! :)`) //once the server is running this message should console log!
 })
