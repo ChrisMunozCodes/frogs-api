@@ -13,7 +13,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Christopher Munoz/readme-template">
 
   <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Christopher%20Munoz">
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
