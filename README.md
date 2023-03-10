@@ -43,7 +43,7 @@
   </a>
 </p>
 
-<img alt="Layout" src="https://res.cloudinary.com/eliasgcf/image/upload/v1586302738/assets/previewApp_fnt7hm.png">
+<img alt="Layout" src="https://ibb.co/jhZBVPp">
 
 ## 👨🏻‍💻 About the project
 
