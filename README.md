@@ -2,7 +2,7 @@
 
 <h1 align="center">
 	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
-  Application Logo
+  API for a variety of different frog species.
 </h1>
 
 <h3 align="center">
