@@ -43,7 +43,9 @@
   </a>
 </p>
 
-<a href="https://ibb.co/jhZBVPp"><img src="https://i.ibb.co/jhZBVPp/frogs-api-logo.png" alt="frogs-api-logo" border="0" width="624" height="624"></a>
+<p align="center">
+<a href="https://ibb.co/jhZBVPp"><img src="https://i.ibb.co/jhZBVPp/frogs-api-logo.png" alt="frogs-api-logo" border="0" width="324" height="324"></a>
+</p>
 
 ## 👨🏻‍💻 About the project
 
