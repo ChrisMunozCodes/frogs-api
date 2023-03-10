@@ -67,6 +67,7 @@ Enter "npm install" in your terminal to install dependencies.
 ### Requirements
 
 - [Node.js](https://nodejs.org/en/)
+- [Express]
 
 **Clone the project and access the folder**
 
@@ -84,15 +85,6 @@ $ git clone https://github.com/ChrisMunozCodes/frogs-api.git
 # Install the dependencies
 - express
 $ npm install
-
-
-# You 
-$ docker run --name project-postgres -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres
-
-# To finish, run the api service
-$ yarn dev:server
-
-# Well done, project is started!
 ```
 
 ### Web
