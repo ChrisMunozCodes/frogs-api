@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-<a href="https://ibb.co/jhZBVPp"><img src="https://i.ibb.co/jhZBVPp/frogs-api-logo.png" alt="frogs-api-logo" border="0" width="324" height="324"></a>
+<a href="https://ibb.co/jhZBVPp"><img src="https://cdn.discordapp.com/attachments/1008571091616276541/1083569254080721006/ChrisCodes_A_cool_logo_of_a_colorful_frog_hyper_-_realistic_sur_58cfa747-7f63-489a-81b8-0bacc6f39545.png)" alt="frogs-api-logo" border="0" width="324" height="324"></a>
 </p>
 
 ## 👨🏻‍💻 About the project
