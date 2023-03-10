@@ -12,7 +12,7 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Christopher%20Munoz/readme-template">
 
-  <a href="https://www.linkedin.com/in/eliasgcf/">
+  <a href="https://www.linkedin.com/in/chrismunozcodes/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Christopher%20Munoz">
   </a>
   
