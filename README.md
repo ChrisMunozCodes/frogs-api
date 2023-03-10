@@ -43,7 +43,7 @@
   </a>
 </p>
 
-<img alt="Layout" src="https://ibb.co/jhZBVP"p>
+<img alt="Layout" src="https://ibb.co/jhZBVP"</img>
 
 ## 👨🏻‍💻 About the project
 
