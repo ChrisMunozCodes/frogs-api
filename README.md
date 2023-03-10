@@ -2,18 +2,18 @@
 
 <h1 align="center">
 	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
-  Application Logo
+  API for a variety of different frog species.
 </h1>
 
 <h3 align="center">
-  FROGS API
+  FROGS API https://rap-names-class-fun-production.up.railway.app/
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Christopher Munoz/readme-template">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Christopher%20Munoz/readme-template">
 
-  <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
+  <a href="https://www.linkedin.com/in/chrismunozcodes/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Chris%20Munoz">
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
@@ -141,7 +141,5 @@ $ git push origin my-feature
 After your pull request is merged, you can delete your branch
 
 ## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
