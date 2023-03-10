@@ -43,7 +43,7 @@
   </a>
 </p>
 
-<a href="https://ibb.co/jhZBVPp"><img src="https://i.ibb.co/jhZBVPp/frogs-api-logo.png" alt="frogs-api-logo" border="0"></a>
+<a href="https://ibb.co/jhZBVPp"><img src="https://i.ibb.co/jhZBVPp/frogs-api-logo.png" alt="frogs-api-logo" border="0" =600x600></a>
 
 ## 👨🏻‍💻 About the project
 
